@@ -1,0 +1,4 @@
+- Hi I’m whiskee
+-  I’m interested in soft modding
+-  I’m currently learning Kai-OS modding
+-  I’m looking to collaborate on any kai-OS project 
